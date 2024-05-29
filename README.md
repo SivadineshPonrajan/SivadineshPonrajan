@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey 👋🏻 This is Shiva here
 
-<!--
-**SivadineshPonrajan/SivadineshPonrajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a dual Master's degree student specializing in Autonomous Systems.
+- 👨🏻‍💻 I've been creating (and fixing!) bugs since 2016. Check out my portfolio [here](https://sivadineshponrajan.github.io/).
+- 🌱 Currently exploring the Neural Field Radiance ([NeRF](https://arxiv.org/pdf/2003.08934)).
+- ⚡ Fun fact: I love to build and break/hack things.
+- 📫 How to reach me: [Email](mailto:sivadinesh107@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sivadineshponrajan/)
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivadineshponrajan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivadineshponrajan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
