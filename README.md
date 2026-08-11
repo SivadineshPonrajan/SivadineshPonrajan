@@ -1,6 +1,6 @@
 ## Hey 👋🏻 This is Shiva here
 
-- 🔭 I'm a dual Master's degree student specializing in Autonomous Systems.
+- 🔭 I'm a dual Master's degree holder specializing in Autonomous Systems. Currently pursuing a PhD and also working in the Industry.
 - 👨🏻‍💻 I've been creating (and fixing) bugs since 2016. Check out my portfolio [here](https://sivadineshponrajan.github.io/).
 - 🌱 Currently exploring the Neural Radiance Fields ([NeRF](https://arxiv.org/pdf/2003.08934)).
 - ⚡ Fun fact: I love to build and break/hack things.
